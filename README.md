@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Mohamed Ali
 
-<!--
-**Muhammedali542/Muhammedali542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Front-End Developer | React | JavaScript | Tailwind | HTML & CSS  
+💼 ALX Front-End ProDev Graduate | IBM Certified | Customer-Focused  
+🌍 Based in Cairo, Egypt | Fluent in English 🇬🇧 and German 🇩🇪
 
-Here are some ideas to get you started:
+## 🚀 My Skills
+- 🔹 Languages: JavaScript, HTML, CSS, Sass
+- 🔹 Frameworks: React, Tailwind, Bootstrap
+- 🔹 Tools: Git, GitHub, VS Code, Figma
+- 🔹 Soft Skills: Project Organization, Communication, Empathy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🎯 [Book Library](https://github.com/Muhammedali542/book-library)
+- 🎮 [Gaming Website](https://github.com/Muhammedali542/game-zone)
+
+## 📚 Learning & Certifications
+- ✅ ALX Front-End Developer ProDev Program
+- ✅ IBM Software Engineering Certification
+
+## 📬 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/muhamed-ali-b51605224)
+- ✉️ muhammedali54254715@gmail.com
